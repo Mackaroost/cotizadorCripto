@@ -37,7 +37,7 @@ El estilo de los componentes se logra utilizando la biblioteca `emotion styled`,
 
 ## Exploralo
     
-1.  Abre tu navegador y visita http://localhost:3000 para probar la aplicación.
+1.  Abre tu navegador y visita http://criptoar.netlify.app  para probar la aplicación.
     
 ## Contribuciones
 
